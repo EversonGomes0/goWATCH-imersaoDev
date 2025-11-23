@@ -35,5 +35,5 @@ cd goWATCH-imersaoDev
 # Créditos :bulb:
 **Esse projeto foi desenvolvido por min no aprendizado das aulas da Imersão Dev com Google Gemini da Alura :robot: , foi uma experiência muito boa lidar com as ferramentas :nut_and_bolt: e a criatividade :mag_right: de projetos que é possível criar.**
 <br>
-[**Linkeln**](www.linkedln.com/in/everson-gomes-0g)   [**Instagram**](https://www.instagram.com/eversongomes0/?next=%2F) 
+[**Linkeln**](https://www.linkedln.com/in/everson-gomes-0g)   [**Instagram**](https://www.instagram.com/eversongomes0/?next=%2F) 
 
